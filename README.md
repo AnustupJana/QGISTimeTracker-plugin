@@ -1,6 +1,6 @@
 # QGIS Time Tracker Plugin
 
-![Diagram of the System](https://github.com/AnustupJana/QGIS-Time-Tracker/blob/main/icon.png?raw=true)
+![Diagram of the System](https://github.com/AnustupJana/QGISTimeTracker-plugin/blob/main/icon.png?raw=true)
 
 ## Overview
 
