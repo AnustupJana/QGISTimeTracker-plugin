@@ -48,6 +48,7 @@ The plugin provides a live floating timer widget, activity monitoring, edit stat
   ```
   Install Plugin
   ```
+![Diagram of the System](https://github.com/AnustupJana/QGISTimeTracker-plugin/blob/main/doc/1st.png?raw=true)
 
 ### 2. From ZIP File
 
@@ -103,6 +104,8 @@ C:\Users\<Username>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\
 3. The floating timer widget automatically appears.
 4. Tracking begins automatically when activity is detected.
 
+   ![Diagram of the System](https://github.com/AnustupJana/QGISTimeTracker-plugin/blob/main/doc/2nd.png?raw=true)
+
 ### Monitor Productivity
 
 The timer widget displays:
@@ -111,6 +114,8 @@ The timer widget displays:
 * Active Time
 * Idle Time
 * Productivity Percentage
+
+  ![Diagram of the System](https://github.com/AnustupJana/QGISTimeTracker-plugin/blob/main/doc/3rd.png?raw=true)
 
 ### View Dashboard
 
@@ -129,6 +134,8 @@ The dashboard displays:
 * Tool Usage Statistics
 * Edit Statistics
 
+![Diagram of the System](https://github.com/AnustupJana/QGISTimeTracker-plugin/blob/main/doc/4th.png?raw=true)
+
 ### Export Reports
 
 Use:
@@ -144,6 +151,8 @@ and select:
 * PDF Report
 
 Reports are saved to your selected location.
+
+![Diagram of the System](https://github.com/AnustupJana/QGISTimeTracker-plugin/blob/main/doc/5th.png?raw=true)
 
 ## Activity Detection
 
@@ -252,7 +261,7 @@ Contributions are welcome.
 
 This plugin is licensed under the **GNU General Public License v2.0 or later (GPL-2.0+)**.
 
-See the LICENSE file for complete license information.
+See the [LICENSE](https://github.com/AnustupJana/QGISTimeTracker-plugin/blob/main/LICENSE) file for complete license information.
 
 ## Author
 
